@@ -1,4 +1,4 @@
-# HowManyChars
+# HowManyRepeat
 Ejercicio lectura y escritura de archivos del curso de *JAVA*
 
 ### ENUNCIADO
